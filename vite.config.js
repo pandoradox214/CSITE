@@ -8,7 +8,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
-  base: "/csite-colloquium/",
+  base: "/CSITE",
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
