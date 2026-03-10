@@ -9,7 +9,7 @@ import { EvaluationForm } from "./components/EvaluationForm.jsx";
 
 export const router = createBrowserRouter([
   {
-    path: "/CSITE",
+    path: "/",
     Component: Layout,
     children: [
       { index: true, Component: About },
