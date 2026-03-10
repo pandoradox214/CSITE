@@ -22,6 +22,6 @@ export const router = createBrowserRouter([
   },
   {
     // ADD THIS HERE: Your GitHub repository name
-    basename: "/CSITE/",
+    basename: "/",
   }
 ]);
